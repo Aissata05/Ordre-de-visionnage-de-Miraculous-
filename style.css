@@ -10,13 +10,15 @@ h2{
 	color:#ce77ee;
 	text-align: center;
 }
-
+h3{
+	text-align: center;
+}
 div{
 	text-align:right;
 }
-diiv{
-	text-align:center;
-}
-h3{
+#images{
 text-align:center;
+}
+#music{
+	text-align: center;
 }
